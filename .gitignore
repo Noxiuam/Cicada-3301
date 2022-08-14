@@ -1,0 +1,9 @@
+.idea/
+
+DeepWebHash/target
+DeepWebHash/*.iml
+DeepWebHash/*.idea
+
+Translator/target
+Translator/*.iml
+Translator/*.idea
