@@ -3,7 +3,7 @@ A public repository of my personal efforts for solving Cicada 3301.
 
 ## What this repository contains
 
-### [DeepWebHash]("https://github.com/Noxiuam/Cicada-3301/tree/main/DeepWebHash")
+### [DeepWebHash](https://github.com/Noxiuam/Cicada-3301/tree/main/DeepWebHash)
 - This project module is highly incomplete, README will be updated once it is actually in a production state.
 
 ### [Translator](https://github.com/Noxiuam/Cicada-3301/tree/main/Translator)
